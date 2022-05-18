@@ -13,5 +13,6 @@ CHITKARA UNIVERSITY INSTITUTE OF ENGINEERING & TECHNOLOGY (CUIET) https://englis
 
 #Research intreset
 
-Machine learning and Artificial Intelligence
+Machine learning  
+Artificial Intelligence
 
